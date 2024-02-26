@@ -1,0 +1,2 @@
+# .github
+Envy GitHub config
