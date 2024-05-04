@@ -5,6 +5,6 @@
 <p>- Envy OS (Linux distro)</p>
 <p>We also contribute to the folks over at <a href="http://www.eclipse.cx">the Eclipse Community</a>, check them out!</p>
 <h3>🤔 Want to join in? - We have multiple ways of gaining contact with us.</h3>
-<p>💬 Join our Discord: https://discord.gg/dXHJtuB9aR</p>
+<p>💬 Join our Discord: https://discord.gg/vMUbkXW7sR</p>
 <p>📝 Join our Telegram group: https://t.me/theenvyos</p>
 <p>🦜 Chat with us on Twitter: https://twitter.com/TheEnvyOS</p>
