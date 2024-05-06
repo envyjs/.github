@@ -7,4 +7,4 @@
 <h3>🤔 Want to join in? - We have multiple ways of gaining contact with us.</h3>
 <p>💬 Join our Discord: https://discord.gg/vMUbkXW7sR</p>
 <p>📝 Join our Telegram group: https://t.me/theenvyos</p>
-<p>🦜 Chat with us on Twitter: https://twitter.com/TheEnvyOS</p>
+<p>🦜 Chat with us on Mastodon: https://mastodon.social/@theenvyos</p>
