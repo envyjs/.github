@@ -1,4 +1,4 @@
-<img src="setb.png" alt="The official logo for Envy - a purple chevron with the text 'Envy' next to it." height="100px">
+<img src="setc.webp" alt="The official logo for Envy - a purple chevron with the text 'Envy' next to it." height="100px">
 <p>Envy is what's happening next and now, powered by amazing open source projects.</p>
 <h2>Participating in Envy</h2>
 <p>Envy aims to make a community where everyone is included - no matter who you are. ♥️</p>
